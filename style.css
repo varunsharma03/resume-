@@ -175,7 +175,7 @@ a{
   
 } */
 .photo:hover{
-  transform: rotate(1080deg) scale(1.8) ;
+  transform: rotateY(360deg) scale(1.4) ;
   border-radius:20%;
 }
 .project-section{

@@ -5,6 +5,7 @@
   box-sizing: border-box;
   font-family:"Be Vietnam Pro",sans-serif;
 }
+
 #wrapper{
   height: 100vh;
   width: 100vw;
@@ -444,4 +445,7 @@ a{
 }
 .y:hover{
   transform: scale(1.06)
+}
+#project-1{
+background-image: url(Screenshot(11).png);
 }
